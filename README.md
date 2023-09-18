@@ -1,10 +1,10 @@
 ---
-The current package is used to identify unknown ligands of human CAR from gut micriobiome extracts
-by Hui Peng and Jiabao Liu (UofT), September 15, 2023 
-This example uses the raw data to show the identification of unknown ligands using custom algorithm. Only positive ion mode is analyzed
-Only the data from Figure 1b (GM vs Veh) was shown here. The full dataset can be found on the MassIVE repository (MSV00091840)
-'CAR_MB' raw data represents the pulldown samples of CAR with gut microbiome extracts; 'CAR_NC' raw data represents the negative controls of CAR with DMSO
-Multiple packages including the 'xcms' package need to be installed
+The current package is used to identify unknown ligands of human CAR from gut micriobiome extracts.
+by Hui Peng and Jiabao Liu (UofT), September 15, 2023. 
+This example uses the raw data to show the identification of unknown ligands using custom algorithm. Only positive ion mode is analyzed.
+Only the data from Figure 1b (GM vs Veh) was shown here. The full dataset can be found on the MassIVE repository (MSV00091840).
+'CAR_MB' raw data represents the pulldown samples of CAR with gut microbiome extracts; 'CAR_NC' raw data represents the negative controls of CAR with DMSO.
+Multiple packages including the 'xcms' package need to be installed.
 ---
 Step 1: loading packages
 ```{r, message=FALSE, warning=FALSE}
