@@ -1,5 +1,5 @@
 ---
-output: github_document
+output: raw mass features, putative ligands, and volcano plot
 ---
 The current package is used to identify unknown ligands of human CAR from gut micriobiome extracts.
 by Hui Peng and Jiabao Liu (UofT), September 15, 2023. 
