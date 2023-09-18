@@ -8,6 +8,7 @@ Only the data from Figure 1b (GM vs Veh) was shown here. The full dataset can be
 'CAR_MB' raw data represents the pulldown samples of CAR with gut microbiome extracts; 'CAR_NC' raw data represents the negative controls of CAR with DMSO.
 Multiple packages including the 'xcms' package need to be installed.
 For the volcano plot in Fig. 1b, the mass features that were not identifiable through manual inspection have been removed from the hit list.
+
 Step 1: loading packages
 ```{r, message=FALSE, warning=FALSE}
   rm(list=ls())
