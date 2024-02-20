@@ -41,5 +41,6 @@ Step 2: extracting peak features, please call the functions 'Peakextract' and 'L
   #The 'CAR_positive.csv' document contains all raw data and differenated ratios and pvalues
   #The 'CAR_MB_positive.csv' document contains the peaks of putative compounds (fold>100, p<0.01)
   #The TIFF document showed the volcano plot
+  #Release ID: ![image](https://github.com/huiUofT/humanCAR/assets/40840560/259c219e-bbe0-451a-b1ca-6944fad7a785)
   
 ```
